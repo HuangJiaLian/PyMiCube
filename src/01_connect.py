@@ -1,9 +1,15 @@
+import platform
 import asyncio
 from bleak import BleakClient, BleakScanner
 from bleak.exc import BleakError
 
 # 物理地址
-ble_address = "D8:99:3A:4A:9E:8D"
+ble_address = (
+    "D8:99:3A:4A:9E:8D"
+    if platform.system() != "Darwin"
+    else "9A8BE917-31DE-C67E-48C4-E9D833A6F0ED"
+)
+
 receive_UUID = "0000aadc-0000-1000-8000-00805f9b34fb"
 
 key = [176,  81, 104, 224,  86, 137,
