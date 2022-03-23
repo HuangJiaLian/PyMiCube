@@ -17,8 +17,8 @@ Video:
 
 Thanks to:
 
-[0] https://unsplash.com/photos/4Ennrbj1svk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-[1] https://medium.com/@juananclaramunt/xiaomi-mi-smart-rubik-cube-ff5a22549f90
-[2] https://www.youtube.com/watch?v=1pIV4bjYAK4&t=454s
-[3] https://github.com/cs0x7f/cstimer/blob/master/src/js/bluetooth.js
-[4] https://github.com/hbldh/bleak
+[0] https://unsplash.com/photos/4Ennrbj1svk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink<br/>
+[1] https://medium.com/@juananclaramunt/xiaomi-mi-smart-rubik-cube-ff5a22549f90 <br/>
+[2] https://www.youtube.com/watch?v=1pIV4bjYAK4&t=454s<br/>
+[3] https://github.com/cs0x7f/cstimer/blob/master/src/js/bluetooth.js<br/>
+[4] https://github.com/hbldh/bleak<br/>
